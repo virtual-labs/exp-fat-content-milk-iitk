@@ -2,29 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the significance of maintaining the water bath at 65°C during the Gerber test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To freeze the fat layer",
+        "b": "To avoid acid spillage",
+        "c": "To melt fat for accurate measurement",
+        "d": "To neutralize acid"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +16,74 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How much milk is used in the butyrometer for fat estimation?",
+      "answers": {
+        "a": "10 ml",
+        "b": "11 ml",
+        "c": "10.75 ml",
+        "d": "12.0 ml"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following instruments is required to measure the fat percentage directly?",
+      "answers": {
+        "a": "Lactometer",
+        "b": "Butyrometer",
+        "c": "Hydrometer",
+        "d": "Viscometer"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is a counter-balance butyrometer with water added during centrifugation?",
+      "answers": {
+        "a": "To dilute the sample",
+        "b": "To cool the sample",
+        "c": "To balance the rotor and ensure uniform spinning",
+        "d": "To clean the centrifuge"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is observed and recorded at the end of the Gerber test?",
+      "answers": {
+        "a": "Acidity of milk",
+        "b": "Density of milk serum",
+        "c": "Volume of milk",
+        "d": "Length of the fat column"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
