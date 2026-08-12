@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the primary objective of using the Gerber method in milk analysis?",
+      "answers": {
+        "a": "To determine protein content",
+        "b": "To measure SNF content",
+        "c": "To estimate fat content",
+        "d": "To detect lactose presence"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which chemical is used to dissolve solids-not-fat (SNF) in the Gerber method?",
+      "answers": {
+        "a": "Amyl alcohol",
+        "b": "Sodium hydroxide",
+        "c": "Hydrochloric acid",
+        "d": "Sulphuric acid"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the role of amyl alcohol in the Gerber method?",
+      "answers": {
+        "a": "To increase viscosity of milk",
+        "b": "To separate SNF",
+        "c": "To assist in separation and prevent charring",
+        "d": "To dissolve protein"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following best describes the specific gravity of fat used in separation during the Gerber test?",
+      "answers": {
+        "a": "1.00",
+        "b": "0.9",
+        "c": "1.5",
+        "d": "2.0"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is centrifugation used in the Gerber method?",
+      "answers": {
+        "a": "To freeze fat globules",
+        "b": "To boil the milk",
+        "c": "To separate fat from serum",
+        "d": "To increase fat content"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
