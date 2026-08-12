@@ -1,12 +1,12 @@
-<b>Requirements (Instruments, Chemicals & Other)</b><br>
-Butyrometer<br>
-Pipette – 10.75 ml for H2SO4<br>
-Pipette – 1ml for amyl alcohol<br>
-Gerber centrifuge<br>
-Water bath<br>
-Amyl alcohol<br>
-Sulphuric acid<br>
-### Procedure
+<b>Requirements (Instruments, Chemicals & Other) :</b><br>
+1. Butyrometer<br>
+2. Pipette – 10.75 ml for H2SO4<br>
+3. Pipette – 1ml for amyl alcohol<br>
+4. Gerber centrifuge<br>
+5. Water bath<br>
+6. Amyl alcohol<br>
+7. Sulphuric acid<br>
+<b> Procedure : </b><br>
 1.	Pipette out 10 ml H2SO4 and transfer to the butyrometer.
 2.	Pipette out 10.75 ml milk and add to the butyrometer.
 3.	Pipette out 1ml amyl alcohol and add to the butyrometer and close the butyrometer firmly with stopper.
